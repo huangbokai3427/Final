@@ -1,0 +1,38 @@
+.container header {
+    background-color: #D0A923;
+}
+.container header nav {
+    background-color: #D0A923;
+}
+.container #hero {
+    background-image: url(images/michael-jackson.jpg);
+    background-size: cover;
+
+}
+header a .logo {
+    width: auto;
+}
+.li {
+}
+.container #contact .hero_header {
+    background-color: #D0A923;
+}
+.container footer .button {
+    color: #000000;
+}
+.container .gallery .button {
+    left: 0px;
+}
+
+.container footer h2 {
+    text-align: center;
+    width: auto;
+    margin-top: -22px;
+    margin-right: -22px;
+    margin-bottom: -22px;
+    margin-left: -22px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
